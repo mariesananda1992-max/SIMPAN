@@ -1,0 +1,6 @@
+{
+  "name": "e-Perjadin Kendal",
+  "description": "Sistem Informasi Pengelolaan Perjalanan Dinas, Pagu, Realisasi, SPJ, dan Dokumen Keuangan Sekretariat Daerah Kabupaten Kendal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
